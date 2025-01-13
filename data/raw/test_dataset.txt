@@ -1,0 +1,10 @@
+CCOc1ccc2nc(CC#N)sc2c1
+NS(=O)(=O)c1ccc(Cl)cc1[N+](=O)[O-]
+O=C(CCl)N1CCN(c2ccccc2F)CC1
+N#Cc1ccc([N+](=O)[O-])cc1C#N
+O=C(CCl)Nc1nc(-c2ccccc2)ns1
+O=C(CCl)Nc1nsc(-c2ccccc2)n1
+O=C(CCl)NCc1ccco1
+O=Cc1ccc(CCC(=O)O)cc1
+O=C(CCl)N1CCCCCC1
+Nc1nc(S)n[nH]1
